@@ -51,7 +51,6 @@ It should look like this:
 	}
 }
 ```
-**(security reasons) `coi_env.json` en `env.json` kan je vinden in de upgeloaden zip file  bij `info` op Canvas. (security reasons)**
 
 Afterwards, run the following commands in order to execute the script:
 * `./newdeploymentscript`    --> Normal run
